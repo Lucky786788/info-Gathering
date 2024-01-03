@@ -13,11 +13,8 @@ All in One Information Gathering tool for Termux.
 
 `$ git clone https://github.com/termuxprofessor/professor`
 
-`$ cd professor`
 
-`$ chmod +x professor.sh`
 
-`$ bash professor.sh`
 
 ## • Subscribe our YouTube channel for video tutorial.
 * https://www.youtube.com/c/TermuxProfessorYT
